@@ -13,6 +13,7 @@ from typing import List, Optional, Union # Tip ipuçları için
 import traceback
 import uuid
 
+#Naber mal
 # -----------------------------------------------------------------------------
 # SAYFA KONFİGÜRASYONU - İLK STREAMLIT KOMUTU OLMALI!
 # -----------------------------------------------------------------------------
